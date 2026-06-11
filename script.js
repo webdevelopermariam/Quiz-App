@@ -18,7 +18,7 @@ fetch("questions.json")
     addquestiondata(questionsobject[currentindex],qcount);
     countdown(30,qcount);
     submitbutton.onclick = () => {
-        let theRightAnswer = questionsobject[currentindex]["right-answer"];
+        let theRightAnswer = questionsobject[currentindex]["right_answer"];
         currentindex++;
         checkanswer(theRightAnswer, qcount);
         quizarea.innerHTML = "";
