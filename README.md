@@ -11,3 +11,4 @@ A dynamic quiz application built with HTML, CSS, and JavaScript that fetches que
 - CSS3 (Flexbox)
 - JavaScript (DOM Manipulation, Fetch API)
 - JSON
+https://friendly-druid-7531c0.netlify.app/
